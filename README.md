@@ -46,4 +46,4 @@ Integrated dual degree (BTech + MTech) in Engineering · 2020–2025
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/nitish-kumar-byahut/) · [GitHub](https://github.com/nkb02) · [Email](mailto:byahut25@gmail.com) · [CodeChef (3-star)](https://www.codechef.com/users/nkb25) · [LeetCode](https://leetcode.com/u/nkb25/)
+[LinkedIn](https://www.linkedin.com/in/nitish-kumar-byahut/) · [GitHub](https://github.com/nkb02) · [Email](mailto:byahut25@gmail.com) · [CodeChef (3-star)](https://www.codechef.com/users/nkb25) · [LeetCode](https://leetcode.com/u/nkb02/)
