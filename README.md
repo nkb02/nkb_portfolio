@@ -4,6 +4,8 @@
 
 I build React and Python applications that help life sciences teams make data-driven decisions. At Axtria, I work on generative AI and analytics products, including API-driven applications that use large language models and AI agents.
 
+[Portfolio website source](website/) · [Private site](https://nitish-kumar-engineering.willedwarbler5.chatgpt.site/)
+
 ## Experience
 
 ### Axtria – Ingenious Insights
